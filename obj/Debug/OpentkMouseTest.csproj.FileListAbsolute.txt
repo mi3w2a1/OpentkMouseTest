@@ -1,0 +1,14 @@
+Z:\暫定プロジェクト\OpentkMouseTest\bin\Debug\OpentkMouseTest.exe.config
+Z:\暫定プロジェクト\OpentkMouseTest\bin\Debug\OpentkMouseTest.exe
+Z:\暫定プロジェクト\OpentkMouseTest\bin\Debug\OpentkMouseTest.pdb
+Z:\暫定プロジェクト\OpentkMouseTest\bin\Debug\OpenTK.dll
+Z:\暫定プロジェクト\OpentkMouseTest\bin\Debug\OpenTK.GLControl.dll
+Z:\暫定プロジェクト\OpentkMouseTest\obj\Debug\OpentkMouseTest.csproj.AssemblyReference.cache
+Z:\暫定プロジェクト\OpentkMouseTest\obj\Debug\OpentkMouseTest.csproj.SuggestedBindingRedirects.cache
+Z:\暫定プロジェクト\OpentkMouseTest\obj\Debug\OpentkMouseTest.Form1.resources
+Z:\暫定プロジェクト\OpentkMouseTest\obj\Debug\OpentkMouseTest.Properties.Resources.resources
+Z:\暫定プロジェクト\OpentkMouseTest\obj\Debug\OpentkMouseTest.csproj.GenerateResource.cache
+Z:\暫定プロジェクト\OpentkMouseTest\obj\Debug\OpentkMouseTest.csproj.CoreCompileInputs.cache
+Z:\暫定プロジェクト\OpentkMouseTest\obj\Debug\OpentkMouseTest.csproj.CopyComplete
+Z:\暫定プロジェクト\OpentkMouseTest\obj\Debug\OpentkMouseTest.exe
+Z:\暫定プロジェクト\OpentkMouseTest\obj\Debug\OpentkMouseTest.pdb
